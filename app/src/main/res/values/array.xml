@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="leagues_array">
+        <item>Spanish La Liga-4335</item>
+        <item>German Bundesliga-4331</item>
+        <item>English Premier League-4328</item>
+    </string-array>
+</resources>
