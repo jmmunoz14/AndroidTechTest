@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jmmun/AndroidStudioProjects/AndroidTechTest/app/src/main/res/drawable/splashscreen.xml" value="0.34074074074074073" />
         <entry key="..\:/Users/jmmun/AndroidStudioProjects/AndroidTechTest/app/src/main/res/layout/activity_detail.xml" value="0.26268115942028986" />
         <entry key="..\:/Users/jmmun/AndroidStudioProjects/AndroidTechTest/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
         <entry key="..\:/Users/jmmun/AndroidStudioProjects/AndroidTechTest/app/src/main/res/layout/activity_main2.xml" value="0.26268115942028986" />
+        <entry key="..\:/Users/jmmun/AndroidStudioProjects/AndroidTechTest/app/src/main/res/layout/activity_splash.xml" value="0.21739130434782608" />
         <entry key="..\:/Users/jmmun/AndroidStudioProjects/AndroidTechTest/app/src/main/res/layout/adapter_teams.xml" value="0.2046875" />
         <entry key="..\:/Users/jmmun/AndroidStudioProjects/AndroidTechTest/app/src/main/res/layout/custom_simple_spinner.xml" value="0.2046875" />
         <entry key="..\:/Users/jmmun/AndroidStudioProjects/AndroidTechTest/app/src/main/res/layout/custom_spinner.xml" value="0.33" />

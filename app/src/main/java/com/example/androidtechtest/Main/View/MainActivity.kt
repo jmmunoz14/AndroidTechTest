@@ -37,6 +37,8 @@ class MainActivity : AppCompatActivity(), OnTeamListener {
         binding =
             DataBindingUtil.inflate(layoutInflater, R.layout.activity_main, null, false)
         setContentView(binding.root)
+        Thread.sleep(2000)
+        setTheme(R.style.Theme_AndroidTechTest_NoActionBar)
 
         retrofitService = ApiService.getInstance(resources)
 
